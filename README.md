@@ -20,3 +20,16 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## lint / lint + 修正
+
+``` bash
+$ yarn lint
+$ yarn lint --fix
+```
+
+## node
+
+``` bash
+v12.13.0
+```
